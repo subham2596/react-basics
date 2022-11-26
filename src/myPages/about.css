@@ -1,0 +1,23 @@
+
+.header h2{
+    margin-bottom: 15px;
+}
+.header p:not(:last-child){
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.header p{
+    font-size: 15px;
+}
+
+.header blockquote{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

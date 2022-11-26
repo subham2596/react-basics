@@ -1,0 +1,26 @@
+.pyCard{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);
+    margin: 20px;
+    background-color: white;
+    color: black;
+}
+
+.pyCardImg{
+    width: 100%;
+    height: 200px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
