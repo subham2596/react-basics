@@ -28,6 +28,13 @@
     object-fit: cover;
     border-radius: 10px;
 }
+@media (max-width: 580px){
+    .introImage{
+        height: auto;
+    }
+
+}
+
 .introText{
     padding: 20px;
     font-size: 16px;
